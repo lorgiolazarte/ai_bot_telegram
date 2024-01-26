@@ -1,4 +1,5 @@
 1.- Vea de instalar las dependencias requeridas
+
 2.- Cree un bot en telegram en bot father y obtenga un KEY del bot y reemplaze en el codigo
 3.- Cree un key de OPENAI y reemplaze en el codigo.
 4.- Ejecute el archivo ai_bot_telegram.py
