@@ -11,9 +11,9 @@ from langchain.vectorstores import Chroma
 from rich.console import Console
 from utils import (DocsJSONLLoader, get_file_path, get_openai_api_key)
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "YOUR KEY OPENAI"
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
-TOKEN_TELEGRAM = "6871247085:AAF7GSmkCdRbVCXlKeCxhjGfpQe2wVnFJX4"
+TOKEN_TELEGRAM = "YOUR KEY TELEGRAM"
 
 console = Console()
 
